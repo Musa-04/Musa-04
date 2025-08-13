@@ -35,7 +35,23 @@ Hi, I'm **Mustafeez Shaikh** — a passionate **Web Developer** & **DevOps Explo
 
 ---
 
+
 ## ✨ **Fun Fact**
 > "Any fool can write code that a computer can understand.  
 > Good programmers write code that humans can understand." – Martin Fowler
 
+---
+## 📬 **Connect with Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/mustafeez-shaikh-50b786306" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mustafeezshaikh@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/musa_shaikh_0404" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
+  </a>
+</p>
+
+---
