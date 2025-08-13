@@ -1,21 +1,20 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F726&width=435&lines=Hey+there!+I'm+Mustafeez+Shaikh;Web+Developer+%7C+DevOps+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F726&width=500&lines=Hey+there!+I'm+Mustafeez+Shaikh;Web+Developer+%7C+DevOps+Enthusiast;Always+Learning+%26+Building;Turning+Coffee+into+Code;Full-Stack+in+the+Making;Building+Cool+Stuff%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 # 👋 Hey there, I'm **Mustafeez Shaikh**  
 🚀 Tech Enthusiast | 💻 Web Developer | ⚙️ DevOps Explorer | 🎯 Lifelong Learner  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Musa-04&color=blue&style=for-the-badge)  
 [![GitHub Followers](https://img.shields.io/github/followers/Musa-04?label=Follow%20Me&style=for-the-badge)](https://github.com/Musa-04)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
 
 ---
 
 ## 💼 **Projects Showcase**
-| 🚀 Project | 📄 Description | 🛠 Tech Stack | 🔗 Live / Code |
-|------------|---------------|--------------|----------------|
-| 🛒 **E-commerce Website** | Modern UI for online shopping | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | [🔗 GitHub](https://github.com/Musa-04/Ecommerce) |
-| 🔐 **Modern Login Page** | Responsive login form | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | [🔗 GitHub](https://github.com/Musa-04/Modern_login_page) |
-| 📜 **JavaScript Snippets** | Useful JS programs & mini projects | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | [🔗 GitHub](https://github.com/Musa-04/javaScript) |
+| Project | Description | Tech Stack | Live / Code |
+|---------|-------------|------------|-------------|
+| **E-commerce Website** | Modern UI for online shopping | HTML, CSS, JavaScript | [🔗 GitHub](https://github.com/Musa-04/Ecommerce) |
+| **Modern Login Page** | Responsive login form | HTML, CSS | [🔗 GitHub](https://github.com/Musa-04/Modern_login_page) |
+| **JavaScript Snippets** | Useful JS programs & mini projects | JavaScript | [🔗 GitHub](https://github.com/Musa-04/javaScript) |
 
 ---
 
