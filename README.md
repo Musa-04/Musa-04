@@ -20,16 +20,17 @@ Hi, I'm **Mustafeez Shaikh** — a passionate **Web Developer** & **DevOps Explo
 
 ## 🛠️ **Skills**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps" width="120"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML5" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/96/git.png" alt="Git" width="80" height="80"/>
+  <img src="https://img.icons8.com/ios-glyphs/96/github.png" alt="GitHub" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code" width="80" height="80"/>
 </p>
+
 
   
 
