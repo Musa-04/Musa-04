@@ -1,4 +1,4 @@
-<!-- Animated Typing Header -->
+<!-- Typing Animation Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+Mustafeez+Shaikh;💻+Web+Developer+%7C+DevOps+Explorer;🚀+Turning+Ideas+Into+Reality;☕+Fueled+by+Coffee+%26+Curiosity;🌐+Building+the+Future+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 ---
@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> & <b>DevOps Enthusiast</b> who loves building elegant, efficient, and modern web solutions.  
-  I thrive on turning ideas into digital products that make an impact. ⚙️  
+  I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> & <b>DevOps Enthusiast</b> who enjoys building scalable, secure, and modern digital products.  
+  I’m always exploring new tools, learning emerging technologies, and pushing limits to create impactful web experiences. ⚙️  
   <br><br>
   <i>"Dream big. Code bigger."</i>
 </p>
@@ -46,9 +46,8 @@
 ### 🧊 **3D GitHub Overview**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musa-04&theme=react" width="100%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musa-04&theme=react" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musa-04&theme=react" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-04&layout=donut&theme=react&hide_border=true&bg_color=0D1117" width="49%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Musa-04&theme=discord&no-bg=true&margin-w=15&margin-h=15&no-frame=true" width="49%"/>
 </div>
 
 ---
