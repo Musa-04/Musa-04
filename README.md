@@ -47,7 +47,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-04&layout=donut&theme=react&hide_border=true&bg_color=0D1117" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Musa-04&theme=discord&no-bg=true&margin-w=15&margin-h=15&no-frame=true" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musa-04&theme=react" width="49%"/>
 </div>
 
 ---
