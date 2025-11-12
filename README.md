@@ -9,26 +9,11 @@
 </div>
 
 <p align="center">
-  I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> & <b>DevOps Enthusiast</b> with a knack for creating sleek, responsive, and scalable web applications.  
-  I love exploring modern tools, learning new tech daily, and automating everything possible! ⚙️  
+  I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> & <b>DevOps Enthusiast</b> who loves building elegant, efficient, and modern web solutions.  
+  I thrive on turning ideas into digital products that make an impact. ⚙️  
   <br><br>
   <i>"Dream big. Code bigger."</i>
 </p>
-
----
-
-### 🧠 **What I Love Building**
-<div align="center">
-  
-| 💡 | ❤️ Passion |
-|----|-------------|
-| 🌐 | Full-Stack Web Apps |
-| ☁️ | Cloud & DevOps Pipelines |
-| 🤖 | AI + Automation Projects |
-| 🎨 | Modern Frontend UIs |
-| 🔐 | Secure, Scalable Backends |
-
-</div>
 
 ---
 
@@ -38,7 +23,7 @@
 
 | 🔥 Project | 🧩 Description | ⚙️ Tech Stack | 🔗 Demo / Code |
 |-------------|----------------|----------------|----------------|
-| 🛍 **E-Commerce Website** | Modern responsive online store with filters, animations & cart. | HTML • CSS • JavaScript | [🔗 View Code](https://github.com/Musa-04/Ecommerce) |
+| 🛍 **E-Commerce Website** | Modern, responsive online store with filters, animations & cart. | HTML • CSS • JavaScript | [🔗 View Code](https://github.com/Musa-04/Ecommerce) |
 | 🔐 **Modern Login Page** | Minimal, responsive UI with validation & transitions. | HTML • CSS | [🔗 View Code](https://github.com/Musa-04/Modern_login_page) |
 | 🤖 **Textify (AI OCR Tool)** | Extract text from images using AI-powered OCR. | Python • OCR • Streamlit | [🔗 View Code](https://github.com/Musa-04/Textify) |
 
@@ -58,9 +43,12 @@
 
 ---
 
-### 🧩 **3D GitHub Contributions**
+### 🧊 **3D GitHub Overview**
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-gitblock.svg" width="700" alt="3D Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musa-04&theme=react" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musa-04&theme=react" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musa-04&theme=react" width="48%"/>
 </div>
 
 ---
