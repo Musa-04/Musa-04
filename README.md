@@ -26,7 +26,6 @@ Hi, I'm **Mustafeez Shaikh** — a passionate **Web Developer** & **DevOps Explo
   <img src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js" width="80" height="80"/>
   <img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" width="80" height="80"/>
   <img src="https://img.icons8.com/color/96/git.png" alt="Git" width="80" height="80"/>
-  <img src="https://img.icons8.com/ios-glyphs/96/github.png" alt="GitHub" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps" width="80" height="80"/>
   <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code" width="80" height="80"/>
 </p>
