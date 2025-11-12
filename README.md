@@ -14,7 +14,7 @@ Hi, I'm **Mustafeez Shaikh** — a passionate **Web Developer** & **DevOps Explo
 |------------|---------|--------|----------|
 | 🛒 **E-commerce Website** | *Modern UI for online shopping with product cards, filters, and smooth animations.* | HTML • CSS • JavaScript | [💻 Code](https://github.com/Musa-04/Ecommerce) |
 | 🔐 **Modern Login Page** | *Responsive and stylish login form with validation.* | HTML • CSS | [💻 Code](https://github.com/Musa-04/Modern_login_page) |
-| 📜 **JavaScript Snippets** | *Mini JS projects and useful code snippets.* | JavaScript | [💻 Code](https://github.com/Musa-04/javaScript) |
+| 📜 **Textify** | *Textify is a modern AI powered OCR Tool.* | Textify | [💻 Code](https://github.com/Musa-04/Textify) |
 
 ---
 
