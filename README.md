@@ -26,6 +26,7 @@
 | 🛍 **E-Commerce Website** | Modern, responsive online store with filters, animations & cart. | HTML • CSS • JavaScript | [🔗 View Code](https://github.com/Musa-04/Ecommerce) |
 | 🔐 **Modern Login Page** | Minimal, responsive UI with validation & transitions. | HTML • CSS | [🔗 View Code](https://github.com/Musa-04/Modern_login_page) |
 | 🤖 **Textify (AI OCR Tool)** | Extract text from images using AI-powered OCR. | Python • OCR • Streamlit | [🔗 View Code](https://github.com/Musa-04/Textify) |
+| **FoodDel** | Food Delivery Website Using MERN Stack |  [🔗 View Code](https://github.com/Musa-04/food-del) |
 
 </div>
 
