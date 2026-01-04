@@ -1,40 +1,43 @@
-<!-- Animated Typing Header (SAFE) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Mustafeez+Shaikh;Web+Developer;Learning+by+Building;Consistent+and+Curious)](https://git.io/typing-svg)
+<!-- Animated Intro Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00AEEF&center=true&vCenter=true&width=850&lines=👋+Hey,+I'm+Mustafeez+Shaikh;💻+Web+Developer;🚀+Learning+by+Building;☕+Consistent+and+Curious)](https://git.io/typing-svg)
 
 ---
 
-## 👋 About Me
+<div align="center">
+  <h2>🌟 About Me</h2>
+</div>
 
-I’m **Mustafeez Shaikh**, a **Web Developer** focused on building clean, responsive, and practical web applications.  
-I believe in learning by building real projects and improving step by step.
-
----
-
-## 🚀 What I Work On
-- Frontend web development  
-- Building real-world projects  
-- Learning backend & DevOps basics  
-- Improving code quality and consistency  
+<p align="center">
+  Hi, I’m <b>Mustafeez Shaikh</b>, a passionate <b>Web Developer</b> who enjoys building clean, responsive, and practical web applications.  
+  I focus on improving my skills by working on real-world projects and learning modern tools step by step.
+</p>
 
 ---
 
-## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, Docker, Linux, VS Code  
+<h2 align="center">🚀 Projects</h2>
+
+<div align="center">
+
+| Project | Description |
+|--------|-------------|
+| **E-Commerce Website** | Responsive store UI with filters and animations |
+| **Modern Login Page** | Clean login page with validation |
+| **Textify (AI OCR Tool)** | Extracts text from images |
+| **FoodDel (MERN App)** | Full-stack food delivery application |
+
+</div>
 
 ---
 
-## 📌 Projects
-- **E-Commerce Website** – Responsive UI with filters & animations  
-- **Modern Login Page** – Clean UI with validation  
-- **Textify (AI OCR Tool)** – Extracts text from images  
-- **FoodDel (MERN App)** – Full-stack food delivery app  
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,docker,linux,vscode&theme=dark" />
+</p>
 
 ---
 
-## 📊 GitHub Stats & Streaks
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Musa-04&show_icons=true&theme=default" height="160"/>
@@ -43,7 +46,7 @@ I believe in learning by building real projects and improving step by step.
 
 ---
 
-## 📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-04&theme=github-compact&hide_border=true" />
@@ -51,24 +54,28 @@ I believe in learning by building real projects and improving step by step.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React concepts  
-- Backend development  
-- DevOps & deployment fundamentals  
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+  Advanced React • Backend Development • DevOps Basics
+</p>
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/mustafeez-shaikh-50b786306  
-- **Email:** mustafeezshaikh@gmail.com  
-- **GitHub:** https://github.com/Musa-04  
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafeez-shaikh-50b786306">LinkedIn</a> •
+  <a href="mailto:mustafeezshaikh@gmail.com">Email</a> •
+  <a href="https://github.com/Musa-04">GitHub</a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <p align="center">
-  <i>Consistency beats intensity.</i>
+  <i>Keep building. Keep learning.</i>
 </p>
