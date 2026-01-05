@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Mustafeez+Shaikh;💻+Web+Developer+%7C+DevOps+Enthusiast;🚀+Turning+Ideas+Into+Code;☕+Fueled+by+Coffee+%26+Curiosity;🌐+Building+Cool+Stuff+Every+Day)](https://git.io/typing-svg)
 
 ---
-
 <div align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
   <h2>🌟 About Me</h2>
