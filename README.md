@@ -7,7 +7,6 @@
   <h2>🌟 About Me</h2>
 </div>
 
-
 <p align="center">
   Hi there! I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> & <b>DevOps Explorer</b> with a love for crafting elegant, scalable, and efficient digital solutions.  
   I’m driven by curiosity, constantly exploring new technologies, and always looking to push boundaries in the world of code. ⚙️  
