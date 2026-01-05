@@ -20,6 +20,7 @@
 
 <div align="center">
 
+
 | 🔥 Project | 🧩 Description | ⚙️ Tech Stack | 🔗 Links |
 |-------------|----------------|----------------|----------------|
 | 🛍 **E-Commerce Website** | A fully responsive store with animations, filters, and clean UI. | HTML • CSS • JavaScript | [🔗 View Code](https://github.com/Musa-04/Ecommerce) |
