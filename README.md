@@ -40,6 +40,18 @@
 
 ---
 
+### 💻 **Coding in Action (SVG)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+</p>
+
+---
+
 ### 🐍 **Contribution Snake**
 
 <p align="center">
@@ -57,14 +69,25 @@
 
 ---
 
-### 📈 **GitHub Stats & Continuous Streak**
+### 🔥 **Current Streak Overview (Table)**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musa-04&show_icons=true&theme=react&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-04&theme=react&hide_border=true&fire=DD2727&ring=DD2727" width="49%" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-04&theme=react-dark&hide_border=true" width="100%"/>
+
+| 📊 Metric | 📈 Status |
+|----------|-----------|
+| 🔥 **Current Streak** | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-04&theme=react&hide_border=true&currStreakNum=DD2727&fire=DD2727" /> |
+| 🏆 **Longest Streak** | Visible in streak card |
+| 📅 **Consistency** | Updated daily |
+
 </div>
+
+---
+
+### 📈 **Overall GitHub Activity**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-04&theme=react-dark&hide_border=true" width="100%"/>
+</p>
 
 ---
 
