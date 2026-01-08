@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Mustafeez+Shaikh;💻+Web+Developer+%7C+DevOps+Enthusiast;🚀+Turning+Ideas+Into+Code;☕+Fueled+by+Coffee+%26+Curiosity;🌐+Building+Cool+Stuff+Every+Day)](https://git.io/typing-svg)
 
 ---
+
 <div align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
   <h2>🌟 About Me</h2>
@@ -31,15 +32,18 @@
 
 ---
 
-
 ### ⚙️ **Tech Stack**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,docker,linux,vscode,figma" />
 </div>
 
+---
+
+### 🐍 **Contribution Snake (Updated)**
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </p>
 
 ---
@@ -53,11 +57,11 @@
 
 ---
 
-### 📈 **GitHub Stats**
+### 📈 **GitHub Stats & Continuous Streak**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Musa-04&show_icons=true&theme=react&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-04&theme=react&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-04&theme=react&hide_border=true&fire=DD2727&ring=DD2727" width="49%" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-04&theme=react-dark&hide_border=true" width="100%"/>
 </div>
