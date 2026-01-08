@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  Hi there! I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> & <b>DevOps Explorer</b> with a love for crafting elegant, scalable, and efficient digital solutions.  
+  Hi there! I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> & <b>DevOps Explorer</b> with a love for crafting elegant, scalable, and efficient digital solutions.<br>
   I’m driven by curiosity, constantly exploring new technologies, and always looking to push boundaries in the world of code. ⚙️  
   <br><br>
   <i>"Dream big. Code bigger."</i>
@@ -22,7 +22,7 @@
 <div align="center">
 
 | 🔥 Project | 🧩 Description | ⚙️ Tech Stack | 🔗 Links |
-|-------------|----------------|----------------|----------------|
+|-----------|---------------|--------------|---------|
 | 🛍 **E-Commerce Website** | A fully responsive store with animations, filters, and clean UI. | HTML • CSS • JavaScript | [🔗 View Code](https://github.com/Musa-04/Ecommerce) |
 | 🔐 **Modern Login Page** | A smooth, stylish login page with form validation. | HTML • CSS | [🔗 View Code](https://github.com/Musa-04/Modern_login_page) |
 | 🤖 **Textify (AI OCR Tool)** | AI-powered OCR app that extracts text from images. | Python • OCR • Streamlit | [🔗 View Code](https://github.com/Musa-04/Textify) |
@@ -40,18 +40,6 @@
 
 ---
 
-### 💻 **Coding in Action (SVG)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-</p>
-
----
-
 ### 🐍 **Contribution Snake**
 
 <p align="center">
@@ -63,30 +51,23 @@
 ### 🧊 **3D GitHub Overview**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-04&layout=donut&theme=react&hide_border=true&bg_color=0D1117" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musa-04&theme=react" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-04&layout=donut&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musa-04&theme=react" width="49%" />
 </div>
 
 ---
 
-### 🔥 **Current Streak Overview (Table)**
+### 📈 **GitHub Stats & Continuous Streak**
 
 <div align="center">
-
-| 📊 Metric | 📈 Status |
-|----------|-----------|
-| 🔥 **Current Streak** | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-04&theme=react&hide_border=true&currStreakNum=DD2727&fire=DD2727" /> |
-| 🏆 **Longest Streak** | Visible in streak card |
-| 📅 **Consistency** | Updated daily |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Musa-04&show_icons=true&theme=react&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-04&theme=react&hide_border=true&fire=DD2727&ring=DD2727" width="49%" />
 </div>
 
----
-
-### 📈 **Overall GitHub Activity**
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-04&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-04&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 ---
