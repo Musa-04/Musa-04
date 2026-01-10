@@ -9,8 +9,9 @@
 </div>
 
 <p align="center">
-  Hi there! I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> & <b>DevOps Explorer</b> with a love for crafting elegant, scalable, and efficient digital solutions.<br>
-  I’m driven by curiosity, constantly exploring new technologies, and always looking to push boundaries in the world of code. ⚙️  
+  Hi there! I'm <b>Mustafeez Shaikh</b> — a passionate <b>Web Developer</b> and <b>Computer Science Engineering student</b>.<br>
+  I love building modern, responsive web applications and exploring DevOps tools & workflows.<br>
+  Constantly learning, experimenting, and improving my skills in real-world projects. ⚙️
   <br><br>
   <i>"Dream big. Code bigger."</i>
 </p>
@@ -23,10 +24,10 @@
 
 | 🔥 Project | 🧩 Description | ⚙️ Tech Stack | 🔗 Links |
 |-----------|---------------|--------------|---------|
-| 🛍 **E-Commerce Website** | A fully responsive store with animations, filters, and clean UI. | HTML • CSS • JavaScript | [🔗 View Code](https://github.com/Musa-04/Ecommerce) |
-| 🔐 **Modern Login Page** | A smooth, stylish login page with form validation. | HTML • CSS | [🔗 View Code](https://github.com/Musa-04/Modern_login_page) |
-| 🤖 **Textify (AI OCR Tool)** | AI-powered OCR app that extracts text from images. | Python • OCR • Streamlit | [🔗 View Code](https://github.com/Musa-04/Textify) |
-| 🍴 **FoodDel (MERN App)** | Full-stack food delivery web app built with MERN stack. | MongoDB • Express • React • Node.js | [🔗 View Code](https://github.com/Musa-04/food-del) |
+| 🛍 **E-Commerce Website** | Fully responsive e-commerce UI with clean design and animations. | HTML • CSS • JavaScript | [🔗 View Code](https://github.com/Musa-04/Ecommerce) |
+| 🧠 **Quiz App** | Interactive quiz app with score tracking and validations. | HTML • CSS • JavaScript | [🔗 View Code](https://github.com/Musa-04/quiz-app) |
+| 🔐 **Modern Login Page** | Stylish login page with form validation. | HTML • CSS | [🔗 View Code](https://github.com/Musa-04/Modern_login_page) |
+| 🤖 **Textify (AI OCR Tool)** | AI-powered OCR tool to extract text from images. | Python • OCR • Streamlit | [🔗 View Code](https://github.com/Musa-04/Textify) |
 
 </div>
 
@@ -48,7 +49,7 @@
 
 ---
 
-### 🧊 **3D GitHub Overview**
+### 🧊 **GitHub Overview**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-04&layout=donut&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
@@ -57,11 +58,11 @@
 
 ---
 
-### 📈 **GitHub Stats & Continuous Streak**
+### 📈 **GitHub Stats & Streak**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Musa-04&show_icons=true&theme=react&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-04&theme=react&hide_border=true&fire=DD2727&ring=DD2727" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-04&theme=react&hide_border=true" width="49%" />
 </div>
 
 <br>
