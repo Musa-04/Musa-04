@@ -11,9 +11,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/mustafeez-shaikh-50b786306)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mustafeezshaikh88@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%208123321828-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white&labelColor=000000)](https://portfolio-ten-ashy-d6yuz5q8ge.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Musa-04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white&labelColor=000000)](https://github.com/Musa-04)
 
 </div>
 
@@ -158,6 +157,7 @@ Aspiring **Data Scientist** and final-year **Computer Science Engineering studen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafeez-shaikh-50b786306)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafeezshaikh88@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-ten-ashy-d6yuz5q8ge.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musa-04)
 
 ---
